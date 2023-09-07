@@ -143,3 +143,34 @@
     margin-left: 80px;
     border-radius: 20px;
 }
+.footer{
+    background-color: rgb(223, 223, 233);
+    display: flex;
+}
+.twetter{
+    height: 20px;
+    width: 20px;
+}
+.twetter1{
+    height: 20px;
+    width: 20px;
+    margin-left: 20px;
+}
+.footshop{
+    width: 300px;
+    height: 300px;
+    margin-left: 120px;
+}
+.foot2{
+    margin-top: 25px;
+    margin-left: 60px;
+}
+.endpage{
+    background-color: rgb(223, 223, 233);
+    padding-bottom: 30px;
+}
+.endicon{
+    height: 40px;
+    width: 40px;
+    margin-left: 20px;
+}
