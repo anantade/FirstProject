@@ -74,3 +74,27 @@
     background-color: rgb(193, 193, 204);
     border-radius: 10px;
 }
+.mencasual{
+    width: 300px;
+    border-radius: 20px;
+    margin-left: 30px;
+}
+.menformal{
+    width: 500px;
+    height: 200px;
+    border-radius: 20px;
+    margin-left: 80px;
+}
+.menformal1{
+    width: 500px;
+    height: 200px;
+    border-radius: 20px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.mencasual1{
+    width: 300px;
+    border-radius: 20px;
+    margin-left: 80px;
+    margin-top: 20px;
+}
