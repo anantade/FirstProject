@@ -73,6 +73,7 @@
 .cont{
     background-color: rgb(193, 193, 204);
     border-radius: 10px;
+
 }
 .mencasual{
     width: 300px;
@@ -97,4 +98,48 @@
     border-radius: 20px;
     margin-left: 80px;
     margin-top: 20px;
+}
+.right{
+    height: 30px;
+    width: 30px;
+}
+.star{
+    height: 50px;
+    width: 200px;
+}
+.happyCust{
+    width: 400px;
+    padding-left: 10px;
+    margin-top: 30px;
+}
+.happyCust1{
+    margin-left: 3px;
+    width: 400px;
+    padding-left: 10px;
+    margin-top: 30px;
+}
+.last{
+    
+    color: antiquewhite;
+    
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.last1{
+    background-color: black;
+    border-radius: 20px;
+}
+.text{
+    height: 35px;
+    width: 400px;
+    margin-top: 50px;
+    margin-left: 80px;
+    border-radius: 20px;
+}
+.text1{
+    height: 35px;
+    width: 400px;
+    margin-top: 25px;
+    margin-left: 80px;
+    border-radius: 20px;
 }
