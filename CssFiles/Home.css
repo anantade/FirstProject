@@ -1,0 +1,76 @@
+
+
+
+.homeFirst{
+    height: 30px;
+    padding-top: 1px;
+}
+.navbar{
+    height: 70px;
+}
+.search{
+    width: 500px;
+    border-radius: 10px;
+    
+}
+.icon{
+    height: 50px;
+    width: 50px;
+}
+.icon1{
+    height: 30px;
+    width: 30px;
+}
+
+.advert{
+    padding-top:15%;
+    padding-left: 5%;
+    background-image: url(/Image/shopping\ image.jpg);
+    background-size: cover;
+    
+}
+.but{
+    border-radius: 30px;
+    
+}
+.int{
+    display: flex;
+}
+.verticalLine{
+    border-left: 1px solid #000;
+    height: 80px;
+}
+.brand{
+    padding-left: 10px;
+    padding-right: 20px;
+}
+.nav2{
+    background-color: black;
+    display: flex;
+    margin-top: 10px;
+}
+.logo{
+    height: 80px;
+    color: aliceblue;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.arrivals{
+  display: flex;
+    
+}
+.cloths{
+   height: 150px;
+   margin-left: 40px;
+   
+}
+.secondTshirt{
+    height: 350px;
+}
+.shirts{
+    height: 300px;
+}
+.cont{
+    background-color: rgb(193, 193, 204);
+    border-radius: 10px;
+}
